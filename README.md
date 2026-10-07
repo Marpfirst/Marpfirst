@@ -35,10 +35,3 @@ Bangkit capstone for Dicoding Jobs, built by a team of six that I led. A T5 mode
 | Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=699ECA) ![Supabase](https://img.shields.io/badge/Supabase-24292f?style=flat-square&logo=supabase&logoColor=3FCF8E) ![Pandas](https://img.shields.io/badge/Pandas-24292f?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=4DABCF) ![Tableau](https://img.shields.io/badge/Tableau-24292f?style=flat-square) |
 | Machine learning | ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292f?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-24292f?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=F7931E) |
 | Workflow and deploy | ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-24292f?style=flat-square&logo=vercel&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-24292f?style=flat-square&logo=claude&logoColor=D97757) ![Codex](https://img.shields.io/badge/Codex-24292f?style=flat-square) |
-
-## Background
-
-- **Software Engineer**, PT Lompobattang Abadi Perkasa · Apr – Jun 2026
-- **Data Processor**, BNPB Emergency Operations Command Center · Nov 2025 – May 2026
-- **Machine Learning Cohort and Project Manager**, Bangkit Academy · Feb – Jun 2024
-- **B.S. Information Systems**, Gunadarma University · 2021 – 2025 · GPA 3.88 / 4.00

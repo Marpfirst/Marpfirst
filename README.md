@@ -30,11 +30,11 @@ Bangkit capstone for Dicoding Jobs, built by a team of six that I led. A T5 mode
 
 | | |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, SQL |
-| Backend and web | Next.js, Vue 3, Fastify, Flask, Socket.IO, Tailwind CSS |
-| Data | PostgreSQL, Supabase, Pandas, NumPy, Tableau |
-| Machine learning | TensorFlow, PyTorch, Hugging Face, Scikit-learn |
-| Workflow and deploy | Git, Docker, Vercel, Claude Code, Codex |
+| Languages | ![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=3776AB) ![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-24292f?style=flat-square) |
+| Backend and web | ![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue 3](https://img.shields.io/badge/Vue_3-24292f?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Fastify](https://img.shields.io/badge/Fastify-24292f?style=flat-square&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-24292f?style=flat-square&logo=flask&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-24292f?style=flat-square&logo=socketdotio&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292f?style=flat-square&logo=tailwindcss&logoColor=06B6D4) |
+| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=699ECA) ![Supabase](https://img.shields.io/badge/Supabase-24292f?style=flat-square&logo=supabase&logoColor=3FCF8E) ![Pandas](https://img.shields.io/badge/Pandas-24292f?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=4DABCF) ![Tableau](https://img.shields.io/badge/Tableau-24292f?style=flat-square) |
+| Machine learning | ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292f?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-24292f?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=F7931E) |
+| Workflow and deploy | ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-24292f?style=flat-square&logo=vercel&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-24292f?style=flat-square&logo=claude&logoColor=D97757) ![Codex](https://img.shields.io/badge/Codex-24292f?style=flat-square) |
 
 ## Background
 

@@ -14,7 +14,7 @@ Finance and operations dashboard for billing, payments, payroll and contracts. 1
 Web version of the social deduction board game for 4–14 players, played from a private room link. The server owns every game state, and the game rules live in a separate, tested package.<br>
 `Vue 3` `TypeScript` `Fastify` `Socket.IO` `Vitest`
 
-**Sigap Assistant** · 2026 · [code](https://github.com/Marpfirst/RAG-Chatbot) · [live demo](https://rag-chatbot-marp.vercel.app)<br>
+**Sigap Assistant** · 2026 · [code](https://github.com/Marpfirst/sigap-assistant) · [live demo](https://rag-chatbot-marp.vercel.app)<br>
 Two-agent helpdesk assistant where every token is measured and shown.<br>
 `Next.js 14` `TypeScript` `Supabase pgvector`
 

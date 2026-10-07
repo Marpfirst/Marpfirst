@@ -18,7 +18,7 @@ Web version of the social deduction board game for 4–14 players, played from a
 Two-agent helpdesk assistant where every token is measured and shown.<br>
 `Next.js 14` `TypeScript` `Supabase pgvector`
 
-**BAAK Academic Chatbot** · 2025 · undergraduate thesis<br>
+**BAAK Academic Chatbot** · 2025 · undergraduate thesis · [code](https://github.com/Marpfirst/Chatbot-baak)<br>
 Hybrid chatbot for a university academic office. Rules answer schedule, exam and calendar questions straight from the database; everything else goes through RAG over the office's guides. Scored 86.93% satisfaction in user acceptance testing with 28 students.<br>
 `Python` `FastAPI` `Supabase` `Pinecone` `OpenAI API` `Docker` `Google Cloud Run`
 

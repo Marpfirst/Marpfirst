@@ -6,7 +6,7 @@ AI engineer at Brand N Purpose, based in Jakarta (UTC+7). I build LLM applicatio
 
 ## Selected work
 
-**Sigap Assistant** · 2026 · [code](https://github.com/Marpfirst/sigap-assistant) · [live demo](https://rag-chatbot-marp.vercel.app)<br>
+**Sigap Assistant** · 2026 · take-home test for Brand N Purpose · [code](https://github.com/Marpfirst/sigap-assistant) · [live demo](https://rag-chatbot-marp.vercel.app)<br>
 Two-agent helpdesk assistant where every token is measured and shown.<br>
 `Next.js 14` `TypeScript` `Supabase pgvector`
 

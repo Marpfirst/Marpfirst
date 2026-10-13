@@ -2,7 +2,7 @@
 
 Software engineer in Jakarta, working across backend, data and machine learning. Most recently I designed and shipped a 13-module finance platform for the MBG network in two months, on my own.
 
-Based in Jakarta (UTC+7). Open to remote roles.
+Based in Jakarta (UTC+7).
 
 [Portfolio](https://www.alvinpratama.my.id) · [LinkedIn](https://linkedin.com/in/alvinpratama25) · [marpfirst@gmail.com](mailto:marpfirst@gmail.com)
 
@@ -24,9 +24,9 @@ Two-agent helpdesk assistant where every token is measured and shown.<br>
 Hybrid chatbot for a university academic office. Rules answer schedule, exam and calendar questions straight from the database; everything else goes through RAG over the office's guides. Scored 86.93% satisfaction in user acceptance testing with 28 students.<br>
 `Python` `FastAPI` `Supabase` `Pinecone` `OpenAI API` `Docker` `Google Cloud Run`
 
-**CV Ranker & Summarizer** · 2024 · [code](https://github.com/Capstone-Dicoding-C241-DJ02)<br>
-Bangkit capstone for Dicoding Jobs, built by a team of six that I led. A T5 model summarizes each CV and a Doc2Vec model scores it against the job description. Best Presenter, Bangkit Academy 2024.<br>
-`Python` `Hugging Face T5` `PyTorch` `Gensim Doc2Vec` `Google Cloud Functions`
+**CV Ranker & Summarizer** · 2024 · [code](https://github.com/Capstone-Dicoding-C241-DJ02/Summarize-with-vertex-ai)<br>
+Bangkit capstone for Dicoding Jobs, built by a team of six that I led. A T5 model summarizes each CV and a Doc2Vec model scores it against the job description. My part was the summarizer and a parser that extracts structured fields with Vertex AI, with an OCR fallback for scanned PDFs. Best Presenter, Bangkit Academy 2024.<br>
+`Python` `Hugging Face T5` `PyTorch` `Vertex AI` `Gensim Doc2Vec` `Google Cloud Functions`
 
 ## Stack
 
